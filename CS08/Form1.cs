@@ -21,8 +21,10 @@ namespace CS08
 
             short shortvalue = 10;
             short shortMax = short.MaxValue;
+        
 
             int intValue = int.MaxValue; //MaxValueにすることで最大の数が入る
+            uint uintValue = uint.MaxValue; //uを入れることでマイナスが入らなくなる
 
             long longValue = long.MaxValue;
 
