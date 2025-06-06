@@ -1,0 +1,11 @@
+C:\XXPro\CS12\bin\Debug\CS12.exe.config
+C:\XXPro\CS12\bin\Debug\CS12.exe
+C:\XXPro\CS12\bin\Debug\CS12.pdb
+C:\XXPro\CS12\obj\Debug\CS12.csproj.AssemblyReference.cache
+C:\XXPro\CS12\obj\Debug\CS12.Form1.resources
+C:\XXPro\CS12\obj\Debug\CS12.Properties.Resources.resources
+C:\XXPro\CS12\obj\Debug\CS12.csproj.GenerateResource.cache
+C:\XXPro\CS12\obj\Debug\CS12.csproj.CoreCompileInputs.cache
+C:\XXPro\CS12\obj\Debug\CS12.exe
+C:\XXPro\CS12\obj\Debug\CS12.pdb
+C:\XXPro\CS12\obj\Debug\CS12.exe.config
