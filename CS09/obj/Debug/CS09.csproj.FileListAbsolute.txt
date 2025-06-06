@@ -1,0 +1,11 @@
+C:\XXPro\CS09\bin\Debug\CS09.exe.config
+C:\XXPro\CS09\bin\Debug\CS09.exe
+C:\XXPro\CS09\bin\Debug\CS09.pdb
+C:\XXPro\CS09\obj\Debug\CS09.csproj.AssemblyReference.cache
+C:\XXPro\CS09\obj\Debug\CS09.Form1.resources
+C:\XXPro\CS09\obj\Debug\CS09.Properties.Resources.resources
+C:\XXPro\CS09\obj\Debug\CS09.csproj.GenerateResource.cache
+C:\XXPro\CS09\obj\Debug\CS09.csproj.CoreCompileInputs.cache
+C:\XXPro\CS09\obj\Debug\CS09.exe
+C:\XXPro\CS09\obj\Debug\CS09.pdb
+C:\XXPro\CS09\obj\Debug\CS09.exe.config
