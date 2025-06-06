@@ -1,0 +1,10 @@
+C:\XXPro\CS17\obj\Debug\CS17.csproj.AssemblyReference.cache
+C:\XXPro\CS17\obj\Debug\CS17.Form1.resources
+C:\XXPro\CS17\obj\Debug\CS17.Properties.Resources.resources
+C:\XXPro\CS17\obj\Debug\CS17.csproj.GenerateResource.cache
+C:\XXPro\CS17\obj\Debug\CS17.csproj.CoreCompileInputs.cache
+C:\XXPro\CS17\bin\Debug\CS17.exe.config
+C:\XXPro\CS17\bin\Debug\CS17.exe
+C:\XXPro\CS17\bin\Debug\CS17.pdb
+C:\XXPro\CS17\obj\Debug\CS17.exe
+C:\XXPro\CS17\obj\Debug\CS17.pdb
